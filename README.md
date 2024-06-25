@@ -71,6 +71,13 @@ Install backend with npm
   npm run server
 ```
 
+Install Docker 
+```bash
+convert API Key into image using python language
+import the image into docker 
+start the containers and images
+```
+
 -Check log for what port the server is running (eg:3000)
 
 -Open the components/Answer.tsx file and change the apiServer value to the localhost:ENTER_YOUR_PORT_HERE
